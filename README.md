@@ -6,3 +6,5 @@ Studiju kursa Datormaciba(Speckurss) elektronisā klade
 1. rinda
 2. rinda
 3. rinda
+
+## 3. Nodarbības pieraksti
