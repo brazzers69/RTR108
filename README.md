@@ -8,7 +8,7 @@ Studiju kursa Datormaciba(Speckurss) elektronisā klade
 3. rinda
 
 ## 3. Shell komandas
-Dialektu veidi:bashsh
+Dialektu veidi:bash   sh
 
 Kas es esmu sistēmā? whoami
 
