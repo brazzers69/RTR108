@@ -1,6 +1,6 @@
 # RTR108
-Studiju kursa Datormaciba(Speckurss) elektronisā klade
-
+Studiju kursa Datormācība (speckurss) elektronikā klade
+Darbra izpildītājs: Rinalds Deņisovs
 ## 2. Nodarbības pieraksti
 
 1. rinda
