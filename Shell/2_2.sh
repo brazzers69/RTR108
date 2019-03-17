@@ -1,6 +1,5 @@
 #!/bin/sh
 
-NAME="Rinalds Denisovs"
+NAME="Zara Ali"
 readonly NAME
 NAME="Qadiri"
-

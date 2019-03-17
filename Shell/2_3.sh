@@ -1,5 +1,5 @@
 #!/bin/sh
 
-NAME="Rinalds Denisovs"
+NAME="Zara Ali"
 unset NAME
 echo $NAME
