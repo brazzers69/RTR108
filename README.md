@@ -44,11 +44,8 @@ _3. rinda_
 ## Programmēšana Shell Vidē
 
 
-```bash
-pip install foobar
-```
-
 ## 6. Nodarbība
+
 ### Tiek pabeigti skripti shell vidē ``skatīt mapē shell``
 
 ## 7. Nodarbība 
