@@ -1,50 +1,57 @@
 # RTR108
-Studiju kursa Datormācība (speckurss) elektronikā klade
+Studiju kursa Datormācība (speckurss) elektroniskā klade.
 
-Darba izpildītājs: Rinalds Deņisovs
-## 2. Nodarbības pieraksti
+## 1. Nodarbība
 
-1. rinda
-2. rinda
-3. rinda
+* **Darba izpildītājs: Rinalds Deņisovs REBMO2** 
 
-## 3. Shell komandas
-Dialektu veidi:bash   sh
+* **Sakai vide -** ``https://edx2.etf.rtu.lv/portal``
 
-Kas es esmu sistēmā? whoami
+* **Github repozitarijs -** ``https://github.com/brazzers69/RTR108``
 
-Kur es esmu sistēmā? pwd
+## 2. Nodarbība
 
-Kas man te ir pieejams? ls (-la) vai (-l)
+* Iepazīšanās ar GitHub vidi, Git versiju kontroles sistēmu. Tiek izveidots skripts automātiskai versiju augšupielādei repozitorijā.  
+Mācīšanās formēt README.md.  
+**1. rinda**  
+`2. rinda`  
+_3. rinda_
 
-Izveidot mapi mkdir
 
-Pārvietoties failu sistēmā cd
+## 3. Nodarbība
 
-Ar TAB pogu var noskaidrot komandas iespējamos turpinājumus.
+* Tiek augšupielādēts repozitorijā praktiskais darbs P01.
+* Darbs ar ``gschem``
 
-Kā noskaidrot OS? uname -a
+## 4. Nodarbība
+* **Linux OS komandas**
 
-Kā noskaidrot shell "dialektu"? echo $0
+```python
 
-~ apzīmē mājas mapi
+* 'uname -a' - Operētājsistēmas detalizēts apraksts.
+* 'pwd' - Ceļš diskā līdz konkrētajam lietotāja profilam.
+* 'cd' - Pāriet uz mājas mapi 'Home'
+* 'rm _faila nosaukums_' - Neatgriezeniski izdzēst konkrēto failu.
+* 'ls -a' -  Redzamā un slēptā satura parādīšana konkrētajā mapē.
+* 'ls -la' -  Redzamā un slēptā satura parādīšana konkrētajā mapē detalizēti.
+* 'ls' -  Redzamā satura parādīšana konkrētajā mapē.
+* 'sh' -  Shell paveids darbam ar ierobežotu resursu ierīcēm.
+* 'history > _nosaukums.txt_' -  Izvada termināļa ievades vēsturi failā ar nosaukumu _nosaukums.txt_
+* 'history' -  Uz ekrāna izvada termināļa ievades vēsturi.
+* 'chmod 750 mans_skripts.sh' -  Piešķirt failam _"mans_skripts.sh"_ šādas tiesības: Īpašnieks var lasīt, rakstīt, izpildīt. Grupa var lasīt. "750" - 
 
-. apzīmē šo vietu
+```
+## Programmēšana Shell Vidē
 
-.. apzīmē soli uz augšu failu sistēmā
 
-/ apzīmē saknes apgabalu
+```bash
+pip install foobar
+```
 
-Tiesības: man manai grupai visai pasaulei oktālā sistēmā (750)
+## 6. Nodarbība
+### Tiek pabeigti skripti shell vidē ``skatīt mapē shell``
 
-Tiesību mainīšana: chmod
+## 7. Nodarbība 
 
-Parādīt sistēmas ceļus: echo $PATH
-
-Sistēmas ceļu papildināšana: PATH=$PATH:(mape kuru vajag)
-
-echo parāda uz ekrāna, to kas tai ir dots.
-
-read nolasa no termināļa un ieraksta mainīgajā
-
-echo #? parāda, vai iepriekšējā darbība ir paveikta veiksmīgi (atgriež kļūdas kodu)
+* Iepazīšanās ar latex
+* Latex vide - ``https://www.overleaf.com``
